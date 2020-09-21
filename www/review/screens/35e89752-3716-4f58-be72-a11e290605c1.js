@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600655965584.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600655965584-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600655965584-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-35e89752-3716-4f58-be72-a11e290605c1" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Home2" width="408" height="830">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/35e89752-3716-4f58-be72-a11e290605c1-1600655965584.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/35e89752-3716-4f58-be72-a11e290605c1-1600655965584-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/35e89752-3716-4f58-be72-a11e290605c1-1600655965584-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/35e89752-3716-4f58-be72-a11e290605c1-1600682399026.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/35e89752-3716-4f58-be72-a11e290605c1-1600682399026-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/35e89752-3716-4f58-be72-a11e290605c1-1600682399026-ie8.css" /><![endif]-->\
       <div id="s-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="408px" datasizeheight="828px" dataX="0" dataY="0" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -277,9 +277,9 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
       </div>\
 \
       <div id="s-Image_4" class="pie image firer ie-background commentable non-processed"   datasizewidth="30px" datasizeheight="30px" dataX="32" dataY="583"   alt="image">\
-          <img src="./images/376f58f2-de71-4c82-b512-08e5a105eb1a.png" />\
+          <img src="./images/43899a19-4600-4104-94f5-8cf1ba964f62.png" />\
       </div>\
-      <div id="s-Text_12" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="26" dataY="623" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_12_0">Accounts</span></div></div></div></div>\
+      <div id="s-Text_12" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="71px" datasizeheight="15px" dataX="15" dataY="623" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_12_0">Pay Credit Bill</span></div></div></div></div>\
       <div id="s-Rectangle_14" class="pie rectangle firer commentable non-processed"   datasizewidth="83px" datasizeheight="78px" dataX="107" dataY="571" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -328,9 +328,9 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
       </div>\
 \
       <div id="s-Image_15" class="pie image firer ie-background commentable non-processed"   datasizewidth="30px" datasizeheight="30px" dataX="333" dataY="582"   alt="image">\
-          <img src="./images/87ff7f4d-0782-41b3-818c-f099dc66e776.png" />\
+          <img src="./images/51e46b3a-b9a4-465a-9b16-da274d065d10.png" />\
       </div>\
-      <div id="s-Text_31" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="44px" datasizeheight="15px" dataX="326" dataY="623" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_31_0">Pay Bills</span></div></div></div></div>\
+      <div id="s-Text_31" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="326" dataY="623" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_31_0">Accounts</span></div></div></div></div>\
 \
       </div>\
       <div id="loadMark"></div>\
