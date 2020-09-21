@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id ="BankOverviewPage"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>BankOverviewPage</name>
+
+  <description>
+      Generated with Justinmind
+  </description>
+
+  <author href="" email="arvi.0601@gmail.com">
+      arvi.0601@gmail.com
+  </author>
+  <preference name="android-targetSdkVersion" value="26" />
+  <platform name="android">
+<icon density="hdpi" src="www/appIcon/android-hdpi-icon.png"/>
+<icon density="mdpi" src="www/appIcon/android-mdpi-icon.png"/>
+<icon density="ldpi" src="www/appIcon/android-ldpi-icon.png"/>
+<icon density="xhdpi" src="www/appIcon/android-xhdpi-icon.png"/>
+<icon density="xxhdpi" src="www/appIcon/android-xxhdpi-icon.png"/>
+<icon density="xxxhdpi" src="www/appIcon/android-xxxhdpi-icon.png"/>
+</platform>
+<platform name="ios">
+<icon height="57" platform="ios" src="www/appIcon/icon.png" width="57"/>
+<icon height="114" platform="ios" src="www/appIcon/icon@2x.png" width="114"/>
+<icon height="40" platform="ios" src="www/appIcon/icon-40.png" width="40"/>
+<icon height="80" platform="ios" src="www/appIcon/icon-40@2x.png" width="80"/>
+<icon height="50" platform="ios" src="www/appIcon/icon-50.png" width="50"/>
+<icon height="100" platform="ios" src="www/appIcon/icon-50@2x.png" width="100"/>
+<icon height="60" platform="ios" src="www/appIcon/icon-60.png" width="60"/>
+<icon height="120" platform="ios" src="www/appIcon/icon-60@2x.png" width="120"/>
+<icon height="180" platform="ios" src="www/appIcon/icon-60@3x.png" width="180"/>
+<icon height="72" platform="ios" src="www/appIcon/icon-72.png" width="72"/>
+<icon height="144" platform="ios" src="www/appIcon/icon-72@2x.png" width="144"/>
+<icon height="76" platform="ios" src="www/appIcon/icon-76.png" width="76"/>
+<icon height="152" platform="ios" src="www/appIcon/icon-76@2x.png" width="152"/>
+<icon height="29" platform="ios" src="www/appIcon/icon-small.png" width="29"/>
+<icon height="58" platform="ios" src="www/appIcon/icon-small@2x.png" width="58"/>
+<icon height="87" platform="ios" src="www/appIcon/icon-small@3x.png" width="87"/>
+</platform>
+
+
+</widget>
