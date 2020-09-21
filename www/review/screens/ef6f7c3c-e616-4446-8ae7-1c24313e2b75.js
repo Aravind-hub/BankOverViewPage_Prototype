@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-ef6f7c3c-e616-4446-8ae7-1c24313e2b75" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Menu" width="408" height="830">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/ef6f7c3c-e616-4446-8ae7-1c24313e2b75-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ef6f7c3c-e616-4446-8ae7-1c24313e2b75-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ef6f7c3c-e616-4446-8ae7-1c24313e2b75-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/ef6f7c3c-e616-4446-8ae7-1c24313e2b75-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ef6f7c3c-e616-4446-8ae7-1c24313e2b75-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ef6f7c3c-e616-4446-8ae7-1c24313e2b75-1600688401881-ie8.css" /><![endif]-->\
       <div id="s-Image_7" class="pie image firer ie-background commentable non-processed"   datasizewidth="410px" datasizeheight="830px" dataX="0" dataY="0"   alt="image">\
           <img src="./images/56a2d09d-5475-401e-9195-2552b0de7303.jpg" />\
       </div>\
@@ -109,7 +109,7 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
       </div>\
 \
       <div id="s-Image_1" class="pie image firer click ie-background commentable non-processed"   datasizewidth="150px" datasizeheight="725px" dataX="258" dataY="54"   alt="image">\
-          <img src="./images/9800b561-4636-4293-8e3b-4f28f51e7928.PNG" />\
+          <img src="./images/07580224-2bfc-43fb-9d4f-edcb99049b6d.PNG" />\
       </div>\
 \
       </div>\

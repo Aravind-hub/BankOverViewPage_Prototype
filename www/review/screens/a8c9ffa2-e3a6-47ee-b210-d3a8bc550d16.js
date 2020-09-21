@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-a8c9ffa2-e3a6-47ee-b210-d3a8bc550d16" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Home1" width="408" height="830">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/a8c9ffa2-e3a6-47ee-b210-d3a8bc550d16-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/a8c9ffa2-e3a6-47ee-b210-d3a8bc550d16-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/a8c9ffa2-e3a6-47ee-b210-d3a8bc550d16-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/a8c9ffa2-e3a6-47ee-b210-d3a8bc550d16-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/a8c9ffa2-e3a6-47ee-b210-d3a8bc550d16-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/a8c9ffa2-e3a6-47ee-b210-d3a8bc550d16-1600688401881-ie8.css" /><![endif]-->\
       <div id="s-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="408px" datasizeheight="828px" dataX="0" dataY="0" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -119,11 +119,7 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
           <img src="./images/f0d487d5-455c-4070-9d86-ca3d864b1205.png" />\
       </div>\
       <div id="s-Text_2" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="173px" datasizeheight="25px" dataX="108" dataY="193" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_2_0">71-00-86 45698710</span></div></div></div></div>\
-      <div id="s-Text_3" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="78px" datasizeheight="15px" dataX="31" dataY="351" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_3_0">Cheque</span><span id="rtr-s-Text_3_1"> Deposit</span></div></div></div></div>\
       <div id="s-Text_8" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="90px" datasizeheight="15px" dataX="30" dataY="377" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_8_0">Last Transactions</span></div></div></div></div>\
-      <div id="s-Text_9" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="160px" datasizeheight="15px" dataX="29" dataY="397" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_9_0">Cash </span><span id="rtr-s-Text_9_1">Deposit</span><span id="rtr-s-Text_9_2"> &nbsp;</span><span id="rtr-s-Text_9_3">@Manchester &nbsp; &nbsp; &nbsp;</span></div></div></div></div>\
-      <div id="s-Text_17" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="50px" datasizeheight="15px" dataX="31" dataY="428" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_17_0">Rohit</span><span id="rtr-s-Text_17_1"> &nbsp; &nbsp; &nbsp; &nbsp;</span></div></div></div></div>\
-      <div id="s-Text_18" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="148px" datasizeheight="15px" dataX="33" dataY="459" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_18_0">Cheque Deposit</span><span id="rtr-s-Text_18_1"> &nbsp;</span><span id="rtr-s-Text_18_2">@London</span><span id="rtr-s-Text_18_3"> </span><span id="rtr-s-Text_18_4"> &nbsp; &nbsp; </span></div></div></div></div>\
       <div id="s-Text_19" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="221" dataY="351" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_19_0">23rd Sep </span></div></div></div></div>\
       <div id="s-Text_20" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="222" dataY="397" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_20_0">20th Sep </span></div></div></div></div>\
       <div id="s-Text_21" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="221" dataY="428" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_21_0">18th Sep </span></div></div></div></div>\
@@ -321,6 +317,26 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
           <img src="./images/87ff7f4d-0782-41b3-818c-f099dc66e776.png" />\
       </div>\
       <div id="s-Text_31" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="44px" datasizeheight="15px" dataX="326" dataY="623" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_31_0">Pay Bills</span></div></div></div></div>\
+      <div id="s-Text_3" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="66px" datasizeheight="15px" dataX="58" dataY="350" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_3_0">Cash Deposit</span></div></div></div></div>\
+\
+      <div id="s-Image_13" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="32" dataY="348"   alt="image">\
+          <img src="./images/77eb10b8-22f8-4963-b989-fb6b4ce06b95.jpg" />\
+      </div>\
+      <div id="s-Text_5" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="139px" datasizeheight="15px" dataX="58" dataY="401" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_5_0">Cash Deposit @Manchester</span></div></div></div></div>\
+\
+      <div id="s-Image_14" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="32" dataY="399"   alt="image">\
+          <img src="./images/77eb10b8-22f8-4963-b989-fb6b4ce06b95.jpg" />\
+      </div>\
+      <div id="s-Text_6" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="115px" datasizeheight="15px" dataX="58" dataY="456" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_6_0">Cash Deposit @London</span></div></div></div></div>\
+\
+      <div id="s-Image_16" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="32" dataY="454"   alt="image">\
+          <img src="./images/77eb10b8-22f8-4963-b989-fb6b4ce06b95.jpg" />\
+      </div>\
+      <div id="s-Text_17" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="50px" datasizeheight="15px" dataX="57" dataY="428" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_17_0">Rohit</span><span id="rtr-s-Text_17_1"> &nbsp; &nbsp; &nbsp; &nbsp;</span></div></div></div></div>\
+\
+      <div id="s-Image_17" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="32" dataY="425"   alt="image">\
+          <img src="./images/b7510b53-7582-4ea0-92a5-00f05fd95cc6.jpg" />\
+      </div>\
 \
       </div>\
       <div id="loadMark"></div>\

@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-b4ad3554-e9ed-48dc-ae35-04a31e292acd" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="HomeAssistance" width="408" height="830">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/b4ad3554-e9ed-48dc-ae35-04a31e292acd-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/b4ad3554-e9ed-48dc-ae35-04a31e292acd-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/b4ad3554-e9ed-48dc-ae35-04a31e292acd-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/b4ad3554-e9ed-48dc-ae35-04a31e292acd-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/b4ad3554-e9ed-48dc-ae35-04a31e292acd-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/b4ad3554-e9ed-48dc-ae35-04a31e292acd-1600688401881-ie8.css" /><![endif]-->\
       <div id="s-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="410px" datasizeheight="830px" dataX="0" dataY="0" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -93,8 +93,6 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
          </div>\
        </div>\
       </div>\
-      <div id="s-Text_7" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="99px" datasizeheight="15px" dataX="30" dataY="329" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_7_0">Upcoming Payment</span></div></div></div></div>\
-      <div id="s-Text_16" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="31px" datasizeheight="15px" dataX="326" dataY="351" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_16_0">100.</span><span id="rtr-s-Text_16_1">00</span></div></div></div></div>\
       <div id="s-Rectangle_12" class="pie rectangle firer commentable non-processed"   datasizewidth="409px" datasizeheight="72px" dataX="-1" dataY="758" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -123,25 +121,6 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
           <img src="./images/6f4d4d0c-d6e3-4c18-963b-c9aaae453a6e.png" />\
       </div>\
       <div id="s-Text_2" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="173px" datasizeheight="25px" dataX="51" dataY="276" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_2_0">71-00-86 45698710</span></div></div></div></div>\
-      <div id="s-Text_3" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="63px" datasizeheight="15px" dataX="31" dataY="351" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_3_0">Tata Sky &nbsp; &nbsp; &nbsp; </span></div></div></div></div>\
-      <div id="s-Text_8" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="90px" datasizeheight="15px" dataX="30" dataY="377" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_8_0">Last Transactions</span></div></div></div></div>\
-      <div id="s-Text_9" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="124px" datasizeheight="15px" dataX="29" dataY="397" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_9_0">Tesco &nbsp;</span><span id="rtr-s-Text_9_1">@Manchester &nbsp; &nbsp; &nbsp;</span></div></div></div></div>\
-      <div id="s-Text_17" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="50px" datasizeheight="15px" dataX="31" dataY="428" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_17_0">Rohit</span><span id="rtr-s-Text_17_1"> &nbsp; &nbsp; &nbsp; &nbsp;</span></div></div></div></div>\
-      <div id="s-Text_18" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="93px" datasizeheight="15px" dataX="33" dataY="459" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_18_0">Uber &nbsp;</span><span id="rtr-s-Text_18_1">@London</span><span id="rtr-s-Text_18_2"> </span><span id="rtr-s-Text_18_3"> &nbsp; &nbsp; </span></div></div></div></div>\
-      <div id="s-Text_19" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="221" dataY="351" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_19_0">23rd Sep </span></div></div></div></div>\
-      <div id="s-Text_20" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="222" dataY="397" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_20_0">20th Sep </span></div></div></div></div>\
-      <div id="s-Text_21" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="221" dataY="428" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_21_0">18th Sep </span></div></div></div></div>\
-      <div id="s-Text_22" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="222" dataY="458" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_22_0">18th Sep </span></div></div></div></div>\
-      <div id="s-Text_23" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="25px" datasizeheight="15px" dataX="326" dataY="395" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_23_0">89.</span><span id="rtr-s-Text_23_1">91</span></div></div></div></div>\
-      <div id="s-Text_24" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="31px" datasizeheight="15px" dataX="326" dataY="426" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_24_0">500.</span><span id="rtr-s-Text_24_1">00</span></div></div></div></div>\
-      <div id="s-Text_25" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="25px" datasizeheight="15px" dataX="326" dataY="456" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_25_0">20.</span><span id="rtr-s-Text_25_1">00</span></div></div></div></div>\
-      <div id="s-Text_26" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="35px" dataX="297" dataY="386" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_26_0">-</span></div></div></div></div>\
-      <div id="s-Text_27" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="35px" dataX="297" dataY="446" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_27_0">-</span></div></div></div></div>\
-      <div id="s-Text_28" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="15px" dataX="297" dataY="423" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_28_0">+</span></div></div></div></div>\
-\
-      <div id="s-Image_11" class="pie image firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="8px" dataX="314" dataY="355"   alt="image">\
-          <img src="./images/ae54fa60-49eb-4b7c-9f11-2cc8f96f3736.png" />\
-      </div>\
       <div id="s-Rectangle_13" class="pie rectangle firer commentable non-processed"   datasizewidth="83px" datasizeheight="78px" dataX="9" dataY="571" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -243,18 +222,6 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
            </div>\
          </div>\
        </div>\
-      </div>\
-\
-      <div id="s-Image_21" class="pie image firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="9px" dataX="313" dataY="398"   alt="image">\
-          <img src="./images/ae54fa60-49eb-4b7c-9f11-2cc8f96f3736.png" />\
-      </div>\
-\
-      <div id="s-Image_22" class="pie image firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="9px" dataX="311" dataY="429"   alt="image">\
-          <img src="./images/ae54fa60-49eb-4b7c-9f11-2cc8f96f3736.png" />\
-      </div>\
-\
-      <div id="s-Image_23" class="pie image firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="9px" dataX="311" dataY="459"   alt="image">\
-          <img src="./images/ae54fa60-49eb-4b7c-9f11-2cc8f96f3736.png" />\
       </div>\
       <div id="s-Image_2" class="pie image firer ie-background commentable non-processed"   datasizewidth="29px" datasizeheight="29px" dataX="330" dataY="14"   alt="image" systemName="./images/b4080827-591b-4dc6-bc03-efe7ddb8f9a0.svg" overlay="#FFFFFF">\
           <svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>\
@@ -390,6 +357,41 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
        </div>\
       </div>\
       <div id="s-Text_43" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="37px" datasizeheight="20px" dataX="271" dataY="634" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_43_0">FAQs</span></div></div></div></div>\
+      <div id="s-Group_2" class="group firer ie-background commentable non-processed" datasizewidth="326px" datasizeheight="154px" dataX="34" dataY="329" >\
+        <div id="s-Text_7" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="99px" datasizeheight="15px" dataX="0" dataY="0" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_7_0">Upcoming Payment</span></div></div></div></div>\
+        <div id="s-Text_16" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="41px" datasizeheight="15px" dataX="285" dataY="22" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_16_0">&pound; </span><span id="rtr-s-Text_16_1">100.</span><span id="rtr-s-Text_16_2">00</span></div></div></div></div>\
+        <div id="s-Text_8" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="90px" datasizeheight="15px" dataX="0" dataY="48" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_8_0">Last Transactions</span></div></div></div></div>\
+        <div id="s-Text_19" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="191" dataY="22" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_19_0">23rd Sep </span></div></div></div></div>\
+        <div id="s-Text_20" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="192" dataY="68" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_20_0">20th Sep </span></div></div></div></div>\
+        <div id="s-Text_21" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="191" dataY="99" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_21_0">18th Sep </span></div></div></div></div>\
+        <div id="s-Text_22" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="47px" datasizeheight="15px" dataX="192" dataY="129" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_22_0">18th Sep </span></div></div></div></div>\
+        <div id="s-Text_23" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="35px" datasizeheight="15px" dataX="285" dataY="69" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_23_0">&pound; </span><span id="rtr-s-Text_23_1">89.</span><span id="rtr-s-Text_23_2">91</span></div></div></div></div>\
+        <div id="s-Text_24" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="41px" datasizeheight="15px" dataX="285" dataY="99" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_24_0">&pound; </span><span id="rtr-s-Text_24_1">500.</span><span id="rtr-s-Text_24_2">00</span></div></div></div></div>\
+        <div id="s-Text_25" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="35px" datasizeheight="15px" dataX="285" dataY="130" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_25_0">&pound; </span><span id="rtr-s-Text_25_1">20.</span><span id="rtr-s-Text_25_2">00</span></div></div></div></div>\
+        <div id="s-Text_26" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="35px" dataX="273" dataY="58" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_26_0">-</span></div></div></div></div>\
+        <div id="s-Text_27" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="35px" dataX="273" dataY="119" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_27_0">-</span></div></div></div></div>\
+        <div id="s-Text_28" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="15px" dataX="273" dataY="98" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_28_0">+</span></div></div></div></div>\
+        <div id="s-Text_3" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="63px" datasizeheight="15px" dataX="26" dataY="22" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_3_0">Tata Sky &nbsp; &nbsp; &nbsp; </span></div></div></div></div>\
+\
+        <div id="s-Image_13" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="0" dataY="20"   alt="image">\
+            <img src="./images/cef1f911-b51f-4dfe-a512-ad013928c96c.png" />\
+        </div>\
+        <div id="s-Text_9" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="124px" datasizeheight="15px" dataX="25" dataY="69" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_9_0">Tesco &nbsp;</span><span id="rtr-s-Text_9_1">@Manchester &nbsp; &nbsp; &nbsp;</span></div></div></div></div>\
+        <div id="s-Text_17" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="50px" datasizeheight="15px" dataX="26" dataY="99" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_17_0">Rohit</span><span id="rtr-s-Text_17_1"> &nbsp; &nbsp; &nbsp; &nbsp;</span></div></div></div></div>\
+        <div id="s-Text_18" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="93px" datasizeheight="15px" dataX="27" dataY="130" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_18_0">Uber &nbsp;</span><span id="rtr-s-Text_18_1">@London</span><span id="rtr-s-Text_18_2"> </span><span id="rtr-s-Text_18_3"> &nbsp; &nbsp; </span></div></div></div></div>\
+\
+        <div id="s-Image_14" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="1" dataY="66"   alt="image">\
+            <img src="./images/9f482e32-d6f9-4ccb-b2f1-447642dfc667.jpg" />\
+        </div>\
+\
+        <div id="s-Image_16" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="1" dataY="96"   alt="image">\
+            <img src="./images/b7510b53-7582-4ea0-92a5-00f05fd95cc6.jpg" />\
+        </div>\
+\
+        <div id="s-Image_17" class="pie image firer ie-background commentable non-processed"   datasizewidth="20px" datasizeheight="20px" dataX="1" dataY="127"   alt="image">\
+            <img src="./images/8cd6b6fe-44f5-4996-97b8-9f5bc14e52dc.jpg" />\
+        </div>\
+      </div>\
 \
       </div>\
       <div id="loadMark"></div>\

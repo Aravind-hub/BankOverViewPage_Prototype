@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1600688401881-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-97904c60-f0df-4b85-87e2-8e73d871e36e" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Smart Interactions" width="408" height="830">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/97904c60-f0df-4b85-87e2-8e73d871e36e-1600682399026.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/97904c60-f0df-4b85-87e2-8e73d871e36e-1600682399026-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/97904c60-f0df-4b85-87e2-8e73d871e36e-1600682399026-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/97904c60-f0df-4b85-87e2-8e73d871e36e-1600688401881.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/97904c60-f0df-4b85-87e2-8e73d871e36e-1600688401881-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/97904c60-f0df-4b85-87e2-8e73d871e36e-1600688401881-ie8.css" /><![endif]-->\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" datasizewidth="408px" datasizeheight="827px" dataX="0" dataY="0" >\
         <div id="s-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="408px" datasizeheight="827px" dataX="0" dataY="0" >\
          <div class="backgroundLayer"></div>\
@@ -194,7 +194,7 @@ var content='<div class="ui-page" deviceName="androidPhone" deviceType="mobile" 
       <div id="s-Image_103" class="pie image firer ie-background commentable non-processed"   datasizewidth="30px" datasizeheight="30px" dataX="197" dataY="768"   alt="image">\
           <img src="./images/e270e42c-7c5e-4471-b24a-2cdbee6c3b00.png" />\
       </div>\
-      <div id="s-Image_2" class="pie image firer click ie-background commentable non-processed"   datasizewidth="29px" datasizeheight="29px" dataX="330" dataY="17"   alt="image" systemName="./images/b4080827-591b-4dc6-bc03-efe7ddb8f9a0.svg" overlay="#FFFFFF">\
+      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed"   datasizewidth="29px" datasizeheight="29px" dataX="330" dataY="17"   alt="image" systemName="./images/b4080827-591b-4dc6-bc03-efe7ddb8f9a0.svg" overlay="#FFFFFF">\
           <svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>\
       </div>\
 \
